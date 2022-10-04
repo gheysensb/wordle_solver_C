@@ -1,0 +1,5 @@
+-chmod +x solveur
+make clean
+make 
+clear
+./test_solveur
